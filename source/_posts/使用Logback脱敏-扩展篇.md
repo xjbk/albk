@@ -176,7 +176,7 @@ public class ExtensionApplication {
 }
 ```
 2. 运行main方法
-![运行结果](title/2019_06_06_img1.jpg"示例图片")
+![运行结果](title/2019_06_06_img1.jpg "运行结果")
 >可以看到，只需要增加一个转换器，配置几个正则，就可以实现日志的脱敏，希望可以帮到大家
 
 
